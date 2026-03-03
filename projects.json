@@ -1,0 +1,125 @@
+{
+  "repository": "https://github.com/AymanArefin/CSIII",
+  "projects": [
+    {
+      "name": "Pokedemon FizzBuzz",
+      "description": "FizzBuzz variant that prints Poke for multiples of 3, mon for multiples of 5, and Pokemon for multiples of 15",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/pokedemon-fizzbuzz"
+    },
+    {
+      "name": "Mayflower Intro World",
+      "description": "Introduction to Mayflower game engine with Cat, Dog, and Yarn actors on a bluebonnet background",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-intro-world"
+    },
+    {
+      "name": "Mayflower Score Display",
+      "description": "Mayflower world with score and lives display, featuring Cat, Dog, and Yarn with UI elements",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-score-display"
+    },
+    {
+      "name": "Mayflower Cat & Ninja",
+      "description": "Mayflower world with Cat and NinjaGirl characters introducing multiple animated actor types",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-cat-ninja"
+    },
+    {
+      "name": "Mayflower Multi-Actors",
+      "description": "Mayflower world with multiple character types: Cat, Dog, Jack, and Ninja demonstrating actor composition",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-multi-actors"
+    },
+    {
+      "name": "Mayflower Tile World",
+      "description": "Tile-based Mayflower world with ground, blocks, yarn, and cat placement using a 2D tile grid",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-tile-world"
+    },
+    {
+      "name": "Mayflower Platformer",
+      "description": "Platformer game with gravity, blocks, and animated Ninja character using GravityActor",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/mayflower-platformer"
+    },
+    {
+      "name": "Custom ArrayList",
+      "description": "Custom implementation of a dynamic array (ArrayList) data structure with add, get, remove, size",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/custom-arraylist"
+    },
+    {
+      "name": "Custom LinkedList",
+      "description": "Custom generic LinkedList implementation with node-based linked list operations",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/custom-linkedlist"
+    },
+    {
+      "name": "Map Interface",
+      "description": "Map data structure interface with key-value operations: put, get, remove, containsKey, keySet",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/map-interface"
+    },
+    {
+      "name": "Word Count",
+      "description": "Word frequency counter that reads text files and counts word occurrences using a Map",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/word-count"
+    },
+    {
+      "name": "HashMap Implementation",
+      "description": "Hash table implementation of Map interface using array of ArrayLists for collision handling",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/hashmap-implementation"
+    },
+    {
+      "name": "Tic-Tac-Toe GUI",
+      "description": "Tic-Tac-Toe game with Mayflower graphical interface, playable 3x3 board with win detection",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/tictactoe-gui"
+    },
+    {
+      "name": "Tic-Tac-Toe Client",
+      "description": "Network client for connecting to a Tic-Tac-Toe server for multiplayer gameplay",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/tictactoe-client"
+    },
+    {
+      "name": "Tic-Tac-Toe Client (Alt)",
+      "description": "Alternative Tic-Tac-Toe network client implementation",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/tictactoe-client-alt"
+    },
+    {
+      "name": "Royal Family Tree",
+      "description": "Tree data structure using TNode - builds genealogy tree from data and finds paths",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/royal-family-tree"
+    },
+    {
+      "name": "Tic-Tac-Toe MinMax AI",
+      "description": "Tic-Tac-Toe with unbeatable MinMax AI opponent, network server, and GUI client",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/tictactoe-minmax-ai"
+    },
+    {
+      "name": "Graph Implementation",
+      "description": "Graph and weighted graph implementations using adjacency lists",
+      "tech": ["Java"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/graph-implementation"
+    },
+    {
+      "name": "Recursive Circles",
+      "description": "Recursive drawing using Java AWT - draws nested circles using recursion",
+      "tech": ["Java", "AWT", "Swing"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/recursive-circles"
+    },
+    {
+      "name": "Donkey Kong Platformer",
+      "description": "Full Donkey Kong-style platformer with multiple levels, Cat protagonist, DK enemy, coins, ladders",
+      "tech": ["Java", "Mayflower"],
+      "link": "https://github.com/AymanArefin/CSIII/tree/main/donkey-kong-platformer"
+    }
+  ]
+}
